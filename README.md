@@ -63,7 +63,6 @@ Your Python script must format the final payload exactly like this before sendin
       "total_cost": 0.26,
       "status": "VALID"
     },
-    ...
   ]
 }
 ```
